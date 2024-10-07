@@ -1,0 +1,1 @@
+# plugins-hide-wp-toolbar
